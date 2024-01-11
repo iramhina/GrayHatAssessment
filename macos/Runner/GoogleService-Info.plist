@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyB-uvbrVfo-8H-NxBzS9vasFHIqw1grGFw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>701077215139</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.grayhatproject.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>fir-flutter-codelab-957bb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-flutter-codelab-957bb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:701077215139:ios:c4eb99a491ad2b95c2ec16</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-flutter-codelab-957bb-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
